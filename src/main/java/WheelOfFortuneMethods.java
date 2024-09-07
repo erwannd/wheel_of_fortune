@@ -3,6 +3,10 @@ public class WheelOfFortuneMethods {
         // Implement generate phrase
     }
 
+    public static void getUserGuess(String phrase) {
+        // Implement get guess
+    }
+
     public static void main(String[] args) {
 
     }
